@@ -3,3 +3,4 @@ macbre/nginx-http3
 redis
 mysql:5.7.44
 openresty/openresty
+canal/canal-server
