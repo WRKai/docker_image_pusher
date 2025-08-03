@@ -7,3 +7,4 @@ canal/canal-server
 bladex/sentinel-dashboard
 rabbitmq:3.8-management
 nacos/nacos-server:v2.1.0-slim
+bssama/easyn2n
